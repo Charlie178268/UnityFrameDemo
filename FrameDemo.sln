@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameDemo", "FrameDemo.csproj", "{8B6C8D14-69CA-BD43-F6B6-E5E46ACF6F2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameDemo.Editor", "FrameDemo.Editor.csproj", "{93C4CEE3-F0BB-6028-C974-9A2115546F49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B6C8D14-69CA-BD43-F6B6-E5E46ACF6F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B6C8D14-69CA-BD43-F6B6-E5E46ACF6F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B6C8D14-69CA-BD43-F6B6-E5E46ACF6F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B6C8D14-69CA-BD43-F6B6-E5E46ACF6F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93C4CEE3-F0BB-6028-C974-9A2115546F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C4CEE3-F0BB-6028-C974-9A2115546F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C4CEE3-F0BB-6028-C974-9A2115546F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C4CEE3-F0BB-6028-C974-9A2115546F49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

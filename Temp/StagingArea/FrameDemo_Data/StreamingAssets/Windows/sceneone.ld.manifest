@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 854820615
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27231c9fa3c4608834367279716d7348
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 292a6dc16606c2d6feeb1dcf23a5607f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c110a9b28222c34593abd436106cd5f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Scenes/SceneOne/Troll.prefab
+Dependencies: []
